@@ -11,4 +11,5 @@ print(cuadrado(5)) # 25
 # Usando Lambda
 cuadrado_lambda = lambda x: x**2
 print(cuadrado_lambda(5)) # 25
+print(cuadrado_lambda(4)) # 16
 
